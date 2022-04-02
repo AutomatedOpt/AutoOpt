@@ -1,4 +1,4 @@
-Matlab Source code of AutoOpt.
+Matlab source code of AutoOpt.
 
 Reference:
 Qi Zhao, Bai Yan, Yuhui Shi. AutoOpt: A Methodological Framework of Automatically Designing Metaheuristics for Optimization Problems. ArXiv preprint.
